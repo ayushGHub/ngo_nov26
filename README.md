@@ -22,7 +22,7 @@ Upload the folder to any static host and it works.
 | Largest image | 4–5 MB JPEGs served full size | responsive WebP + JPEG fallback |
 | First load | several MB | **~270 KB** |
 | Theme | Bootstrap template | Human MD-inspired palette, shapes and motion |
-| Pages | one (`contribute.html` was 0 bytes / broken) | home, donate, **gallery**, documents, 404 |
+| Pages | one (`contribute.html` was 0 bytes / broken) | home, donate, **gallery**, NGO records, 404 |
 | Logo | 2021 seal (223 KB copy) | **2025 seal** (`NGO_LOGO25-removebg-preview.png`) |
 | Verification | registration number only | **NGO DARPAN ID, CIN, office bearers** + DARPAN certificate |
 | `<meta name="description">` | empty | written per page |
