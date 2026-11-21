@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /assets/img/_raw/
+
+Sitemap: https://www.letseducateall.org/sitemap.xml
