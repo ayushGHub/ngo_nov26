@@ -104,12 +104,9 @@ Taken from the NITI Aayog NGO DARPAN record
 | Registered with | Registrar of Companies, Rohtas, Bihar |
 | Date of registration | 19 March 2021 |
 | Registered address | Sasaram, Rohtas district, Bihar — 821115 |
-| President | Sushil Kumar Dubey |
-| Trustee | Shanti Kumari |
 
-These appear on `transparency.html`, in the footer of every page, and in the
-JSON-LD `identifier` block, alongside a link so donors can verify the DARPAN ID
-at ngodarpan.gov.in themselves.
+These appear on `transparency.html` and in the footer of every page, alongside a
+link so donors can verify the DARPAN ID at ngodarpan.gov.in themselves.
 
 ### Three things to check
 
